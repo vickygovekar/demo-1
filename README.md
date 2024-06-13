@@ -1,4 +1,4 @@
 # demo-1
 First github project
 <br>
-Author-Vicky govekar
+Author-Vicky (govekar)
